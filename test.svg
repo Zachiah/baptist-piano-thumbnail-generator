@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="w-full mx-auto h-auto bg-white" height="900" width="1600" viewBox="-800 -450 1600 900">
+          <style>
+          @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&amp;family=Great+Vibes&amp;family=Patrick+Hand&amp;display=swap');
+          </style>
+          <defs>
+            <linearGradient id="Gradient1">
+              <stop offset="0%" stop-color="#1565c0"></stop>
+              <stop offset="100%" stop-color="blue"></stop>
+            </linearGradient>
+          </defs>
+
+          <rect style="fill: url(#Gradient1);" x="-800" y="-450" width="1600" height="900"></rect>
+
+          <text fill="white" x="0" y="-200" font-size="200" text-anchor="middle" style="font-family: 'Amatic SC'; font-weight: 600;">
+            Baptist Piano
+          </text>
+
+          <text fill="white" x="0" y="100" font-size="200" text-anchor="middle" style="font-family: 'Amatic SC';">
+            Nothing But the Blood
+          </text>
+
+          <text fill="white" x="700" y="400" font-size="80" text-anchor="end" style="font-family: 'Amatic SC';">
+            Piano: Zachiah / Vocals: Abriella
+          </text>
+          </svg>
