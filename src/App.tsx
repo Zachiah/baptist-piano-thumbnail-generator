@@ -47,7 +47,7 @@ const App: Component = () => {
       canvasEl.height / 2 - 250
     );
 
-    ctx.font = "170px Amatic SC";
+    ctx.font = "140px Amatic SC";
     ctx.fillText(text(), canvasEl.width / 2, canvasEl.height / 2 + 75);
 
     ctx.font = "80px Amatic SC";
